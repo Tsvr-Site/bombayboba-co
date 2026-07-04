@@ -1,13 +1,4 @@
 function NavbarPage() {
-  const navItems = [
-    "HOME",
-    "MENU",
-    "CREATE YOUR BOBA",
-    "OUR OUTLETS",
-    "ABOUT US",
-    "FRANCHISE",
-    "CONTACT",
-  ];
 
   return (
     <nav className="w-full bg-[#F7C52B] px-10 py-4 flex items-center justify-between shadow-sm min-h-[80px] max-h-[80px]">
