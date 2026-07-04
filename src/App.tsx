@@ -15,7 +15,7 @@ function App() {
       {isloading?<LoadingComponent/>:
       <div className="flex flex-col h-screen">
         <NavbarPage/>
-        <div className="bg-[url('bridge2.png')] bg-cover bg-center bg-no-repeat flex w-full h-full font-knewave">
+        <div className="bg-[url('/bridge2.png')] bg-cover bg-center bg-no-repeat flex w-full h-full font-knewave">
           <div className="text-[100px] text-center w-[50%] pt-[100px] pl-[280px]">
             <div className="-rotate-6">B O M B A Y</div>
             <div className="text-pink-500 -rotate-6">KA REAL SIP<span className="font-rubik-dirt">.</span></div>
